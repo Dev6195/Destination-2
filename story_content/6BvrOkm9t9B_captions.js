@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.71.29339.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:04.314%0D%0A%3Ci%3EClick%20on%20each%20tab%20to%20find%20out%20what%20a%20Horizon%20Scanning%20process%20is.%3C/i%3E%0D%0A%0D%0A"}')
